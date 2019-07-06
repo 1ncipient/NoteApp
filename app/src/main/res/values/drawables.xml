@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_check" type="drawable">drawable/ic_check</item>
+    <item name="ic_favorite" type="drawable">drawable/ic_favorite</item>
+    <item name="ic_all_notes" type="drawable">drawable/ic_all_notes</item>
+</resources>
