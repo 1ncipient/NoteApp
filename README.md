@@ -2,6 +2,7 @@
 A Note Android Application that I created based off of Mitch Tabian's Tutorial on SQL Databases. This is version 1.0.
 
 Application opens up to this window.
+
 ![image](https://user-images.githubusercontent.com/48032890/72039759-4eed6f80-3274-11ea-9000-8e083518ec43.png)
 
 You can like the note, which saves the notes to the favourites tab. 
